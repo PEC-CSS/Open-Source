@@ -28,7 +28,15 @@ Long term projects:
 ---------------------------------------------------------------------------------------------
 ### Meeting Points
 
-[2021.Sep.13] Workshop planning:
+[2021.Sep.14] Workshop planning:
+* Intro session to be conducted on Sun ,i.e., 19 Sept (unless some unforeseen engagement gets scheduled that day)
+* Three areas to focus on with a descending order of priority :
+  - opening issues and preparing the repos for contribution
+  - ppt presentation
+  - video content
+* GSoc session will be held separately ( after the first intro session ) 
+* Resources collected, to be merged into the repo
+* Dev projects and logistics related to Project Showcase will be considered later on (possibly the end of this month) so as to prepare ground for Hacktober Fest
 
 <br/>
 
