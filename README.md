@@ -1,5 +1,7 @@
 # Contributing guidelines
 
+<img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome" /> <a href="https://github.com/PEC-CSS/Open-Source/pulls" target="_blank"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/PEC-CSS/Open-Source?style=for-the-badge" /></a> <a href="https://github.com/PEC-CSS/Open-Source/issues" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/github/issues/PEC-CSS/Open-Source?style=for-the-badge" /></a> <a href="https://github.com/PEC-CSS/Open-Source/blob/master/README.md#contributors-" target="_blank">
+
 ## Before contributing
 Ahoy there! Welcome to the [PEC-ACM Open Source Repository](https://github.com/PEC-CSS/Open-Source). We request you to read the __whole guidelines__ before making any pull requests. In case any doubt arises, please feel free to ask it in the Discussion tab.
 
@@ -22,3 +24,16 @@ There are several issues marked in the __Issues__ section. These include the que
 - If you are modifying documentation/comments/tests, make sure your language is concise.
 - You can also add the _algorithm explanation_ as a comment if you wish to.
 - And the most important thing: Have fun coding!
+  
+  
+## Contributors:
+### The Wonderful People Who Contributed Here
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/PEC-CSS/Open-Source/graphs/contributors">
+  				<img src="https://contrib.rocks/image?repo=PEC-CSS/Open-Source" />
+			</a>
+		</td>
+	</tr>
+</table>
