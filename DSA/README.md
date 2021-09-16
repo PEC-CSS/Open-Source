@@ -20,7 +20,7 @@
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)
+![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 ```
 I have personally used 'Introduction to Algorithms - CLRS' book for learning Data Structures and Algo. It is the best book if you want to learn DSA in depth. There is literally no book better than CLRS so far for DSA. You can also refer to courses online, using CLRS as a reference book. Some courses that I used :
@@ -34,7 +34,7 @@ For competitive coding, You can start with HackerRank as a beginner and shift to
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ```
 1. Theoretical part
 Mycodeschool playlists- https://www.youtube.com/user/mycodeschool (time complexity, data structures, searching, sorting, pointers, recursion)
@@ -70,7 +70,7 @@ Geeksforgeeks (https://www.geeksforgeeks.org/ ) is the best source for preparati
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 geeksforgeeks.org/
 codechef.com/
@@ -86,7 +86,7 @@ http://codeforces.com/
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 I started with geeks for geeks for preparing for my internship. I did coding questions topic wise and after coding I did Cse core subjects from the books and then practicing Questions on gfg.
 
@@ -94,7 +94,7 @@ For preparing for my placements I did coding on leetcode platform and for the cs
 ```
 ## Simarpreet Singh
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 Coding ninjas, geeksforgeeks, hackerrank, hackerearth
 ```
@@ -103,7 +103,7 @@ Coding ninjas, geeksforgeeks, hackerrank, hackerearth
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ```
 Competitive coding needs data structures and algorithms as it's foundation. I found University of California's Data structures and Algorithms Specialization really insightfull. It helped me understand DS really well. It can be audited on Coursera. 
 ```
@@ -112,7 +112,7 @@ Competitive coding needs data structures and algorithms as it's foundation. I fo
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 ```
 For compi coding you just gotta keep doing it regularly
@@ -121,7 +121,7 @@ Its a really really nice list.
 ```
 ## Komal
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 There is no need to spend time on learning syntax of different programming languages. Learn one programming language C/C++/java, then start solving questions on any platform one finds comfortable (I used do hackerrank).I used to Google syntax and new data structures whenever i got stuck. Coding ninjas DSA course is really helpful, i did their competitive programming course that too half. But I would recommend to complete DSA course. After this icourserat's all practice. I used to do Codechef monthly long challenge, from those challenges i learnt a lot and gained confidence. I did this all in my first year, after first year i didn't do competitive programming. My point is that, don't waste time on gathering resources and thinking where to start, where to practice for only competitive programming. There is lot of other things to do/study in college.
 ```
@@ -130,7 +130,7 @@ There is no need to spend time on learning syntax of different programming langu
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 ```
 1)Course: https://www.codingninjas.com/courses/onlline-c-plus-plus-course
@@ -144,7 +144,7 @@ There is no need to spend time on learning syntax of different programming langu
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-3rd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
 ```
 1) DSA - Geeks For Geeks
 2) DSA Practice - Leetcode, GFG, Interviewbit

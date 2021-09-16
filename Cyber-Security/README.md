@@ -22,7 +22,7 @@
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 ```
 Hackthebox, portswigger, tryhackme are one of the best to get started. Hackthebox on a little tougher side.

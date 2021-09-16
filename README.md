@@ -33,11 +33,11 @@ This repository also shares a collection of resources, contributed by the member
 | Resources | Link to the respective folder |
 | ------------- | ------------- |
 | Machine Learning | [ML](/ML) |
-| Web Development | [Web Dev resources](/Web Dev resources) |
-| App Development | [App Dev resources](/App Dev resources)|
+| Web Development | [Web Dev resources](/Web-Dev-resources) |
+| App Development | [App Dev resources](/App-Dev-resources)|
 | Competitive Coding & DSA | [DSA](/DSA) |
 | Git and Github | [GIT](/GIT) |
-| Cyber Security | [Cyber Security](/Cyber Security) |
+| Cyber Security | [Cyber Security](/Cyber-Security) |
 
 </br>
 

@@ -27,7 +27,7 @@
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ```
 1. Basics - python
 Sololearn app/website - https://www.sololearn.com/learning/1073
@@ -49,7 +49,7 @@ Towardsdatascience - https://towardsdatascience.com/
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 
 ```
@@ -73,7 +73,7 @@ https://www.coursera.org/learn/python-data-analysis
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 https://www.kaggle.com/
 https://www.codingninjas.com/?referralCode=JRQLA
@@ -84,7 +84,7 @@ https://www.codingninjas.com/?referralCode=JRQLA
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 Andrew NG’s stanford machine learning course to study in depth mathematics in machine learning. Go for as many guided projects as possible from coursera, pick up any random course for specific topic from udemy or go for complete ml track from Coding ninjas. After you are confident enough, start doing projects from kaggle. Random datasets can be found on kaggle,anazon datasets, UcI ml depository, etc.
 ```
@@ -93,7 +93,7 @@ Andrew NG’s stanford machine learning course to study in depth mathematics in 
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 First Phase (Mostly Theory)
 1. Linear Algebra
@@ -117,7 +117,7 @@ https://www.coursera.org/specializations/deep-learning
 ```
 ## Komal
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 I started learning machine learning from coursera Introduction to machine learning course by andrew ng. Then udemy AtoZ Machine learning course. After this one can do project oriented courses or individual/team ML projects. Kaggle is best place to start. 
 ```
@@ -126,7 +126,7 @@ I started learning machine learning from coursera Introduction to machine learni
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 1) Learn Python3 the Hard Way by Shaw
 2) Pandas, Matplotlib and Numpy courses on Kaggle.

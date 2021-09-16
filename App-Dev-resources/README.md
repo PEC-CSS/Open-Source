@@ -21,7 +21,7 @@
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 ```
 1. Angela Yu's course on Flutter and Dart on Udemy is probably the most fun course on Flutter out there with the best explanation but the course doesn't dive much deep on advanced features of Flutter and Dart.
@@ -44,7 +44,7 @@ https://github.com/iampawan/FlutterExampleApps
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ```
 I learned flutter in app dev field and some of the resources are:
 1. Flutter.dev

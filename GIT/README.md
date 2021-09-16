@@ -22,7 +22,7 @@
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 ```
 A good resource to learn git is given below :
@@ -33,14 +33,14 @@ It has almost all the essential git commands explained in detail. Once you are d
 
 ## Simarpreet Singh
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 Mostly YouTube and practice. In times of doubt, mostly google it. Find answers on quora, stackoverflow and github
 ```
 
 ## Komal
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 Hacktoberfest is really good to learn git and about opensource community. 
 ```
@@ -50,7 +50,7 @@ Hacktoberfest is really good to learn git and about opensource community.
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-3rd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
 ```
 Git and Github tutorial-
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR

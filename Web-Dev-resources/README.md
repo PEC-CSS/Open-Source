@@ -27,7 +27,7 @@
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)
+![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)
 ```
 Suggested steps-
 1. Learn HTML, CSS, JavaScript from any resource available.
@@ -47,7 +47,7 @@ For getting better at any framework, read its documentation. For instance, react
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-![Generic badge](https://img.shields.io/badge/Year-3rd-<COLOR>.svg)
+![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)
 ```
 One can easily find web dev videos on youtube depending on the tech stack(MERN,Django etc)  that they are interested in. I followed this https://youtube.com/c/TechWithTim
 ```
@@ -57,14 +57,14 @@ One can easily find web dev videos on youtube depending on the tech stack(MERN,D
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-3rd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Bacth-2022-<COLOR>.svg)](https://shields.io/)
 ```
 Udemy - Python and Django Full Stack Web Developer Bootcamp by Jose Portilla
 ```
 
 ## Simarpreet Singh
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 W3schools, YouTube, mini projects
 ```
@@ -74,7 +74,7 @@ W3schools, YouTube, mini projects
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ```
 If you are new to web development then 1 week you should devote to learn basic html css and javasrcipt. Also learn about what development is all about and why we need it like what are servers, clients, API, databases etc.
 -After getting comfortable with javascript, I would advice to learn bootstrap 4 or 5. Best resource would be w3 schools or course by honkong university on coursera.
@@ -93,7 +93,7 @@ If you are new to web development then 1 week you should devote to learn basic h
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ```
 I have done front-end so I will share step by step process for that only.
 Firstly you should have a strong command at HTML, CSS .
@@ -112,7 +112,7 @@ After having good command in this, you can move forward by learning frameworks, 
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-2nd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 ```
 I did MERN stack .
@@ -134,7 +134,7 @@ Initially you can try out  small projects like resume making, blog websites ,etc
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 1) freecodecamp YouTube channel
 2) Courses on Frontend Masters (free 6 months for GitHub student pack holders) are organized into playlists of various levels. It's best to start with simple html,css and javascript , figure out how servers work and then tie it all together to make a functioning application. Then you can learn how to deploy them to the internet.
@@ -146,7 +146,7 @@ Initially you can try out  small projects like resume making, blog websites ,etc
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-4th-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
 ```
 https://docs.google.com/spreadsheets/d/12W1I0LUGc2P3UOgSNNTTvF1tY0njTbh4fy_ZLV3h3xs/edit#gid=1172747422
 ```
@@ -156,7 +156,7 @@ https://docs.google.com/spreadsheets/d/12W1I0LUGc2P3UOgSNNTTvF1tY0njTbh4fy_ZLV3h
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-3rd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
 ```
 w3schools.com
 https://developer.mozilla.org/en-US/
@@ -171,7 +171,7 @@ https://www.smashingmagazine.com/
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-[![Generic badge](https://img.shields.io/badge/Year-3rd-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
 ```
 I followed three courses:
 1. For vanilla web development: Colt Steele
