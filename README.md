@@ -1,4 +1,4 @@
-ii# Contributing guidelines
+# Contributing guidelines
 
 ## Before contributing
 Ahoy there! Welcome to the [PEC-ACM Open Source Repository](https://github.com/PEC-CSS/Open-Source). We request you to read the __whole guidelines__ before making any pull requests. In case any doubt arises, please feel free to ask it in the Discussion tab.
