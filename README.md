@@ -24,3 +24,16 @@ There are several issues marked in the __Issues__ section. These include the que
 - If you are modifying documentation/comments/tests, make sure your language is concise.
 - You can also add the _algorithm explanation_ as a comment if you wish to.
 - And the most important thing: Have fun coding!
+  
+  
+## Contributors:
+### The Wonderful People Who Contributed Here
+<table>
+	<tr>
+		<td>
+			<a href="https://github.com/PEC-CSS/Open-Source/graphs/contributors">
+  				<img src="https://contrib.rocks/image?repo=PEC-CSS/Open-Source" />
+			</a>
+		</td>
+	</tr>
+</table>
