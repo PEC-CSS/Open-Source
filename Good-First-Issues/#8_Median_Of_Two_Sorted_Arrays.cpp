@@ -9,19 +9,19 @@ double MedianOfSortedArrays(int a[],int m, int b[], int n){
     while (start<=end){
         int midb= (start+end)/2;
         int mida= (m+n+1)/2 - midb;
-        int aleftmax=(mida==0)?INT_MIN:a[mida-1];
-        int arightmin=(mida==m)?INT_MAX:a[mida];
-        int bleftmax=(midb==0)?INT_MIN:b[midb-1];
-        int brightmin=(midb==n)?INT_MAX:b[midb];
-        if ((aleftmax<=brightmin) && (bleftmax<=arightmin)){
+        int aLeftMax=(mida==0)?INT_MIN:a[mida-1];
+        int aRightMin=(mida==m)?INT_MAX:a[mida];
+        int bLeftMax=(midb==0)?INT_MIN:b[midb-1];
+        int bRightMin=(midb==n)?INT_MAX:b[midb];
+        if ((aLeftMax<=bRightMin) && (bLeftMax<=aRightMin)){
             if ((m+n)&1){
-                return max(aleftmax,bleftmax);
+                return max(aLeftMax,bLeftMax);
             }
             else{
-                return (max(aleftmax,bleftmax)+ min(arightmin,brightmin))/2.0;
+                return (max(aLeftMax,bLeftMax)+ min(aRightMin,bRightMin))/2.0;
             }
         }
-        else if (aleftmax>brightmin){
+        else if (aLeftMax>bRightMin){
             start=midb+1;
         }
         else{
