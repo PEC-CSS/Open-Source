@@ -26,10 +26,18 @@ int main(){
     vector<string>answer; 
       int n;
       cin>>n;
-    answer=generateParenthesis(n);
+	if(n==0)
+	{
+		cout<<"NOTHING TO PRINT"<<endl;
+	}
+	else
+	{
+	answer=generateParenthesis(n);
  
     for (int i = 0; i < answer.size(); ++i)
     {
         cout<<answer[i]<<" ";
     }
-}
+
+	}
+   }
