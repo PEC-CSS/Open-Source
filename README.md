@@ -17,9 +17,10 @@ This repository also shares a collection of resources, contributed by the member
 | Machine Learning | [ML](/ML) |
 | Web Development | [Web Dev resources](/Web-Dev-resources) |
 | App Development | [App Dev resources](/App-Dev-resources)|
-| Competitive Coding & DSA | [DSA](/DSA) |
+| Competitive Coding & DSA | [CP DSA resources](/CP-DSA-resources) |
 | Git and Github | [GIT](/GIT) |
 | Cyber Security | [Cyber Security](/Cyber-Security) |
+| Blockchain Development | [Blockchain](/Blockchain) |
 
 </br>
 

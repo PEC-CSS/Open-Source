@@ -55,5 +55,15 @@ Hacktoberfest is really good to learn git and about opensource community.
 Git and Github tutorial-
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
 ```
+
+## Abhinav Marwaha
+<a href="https://www.linkedin.com/in/abhinavmarwaha/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+```
+Git SCM - https://git-scm.com/
+```
 <br />
 <br />
