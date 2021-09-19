@@ -1,4 +1,4 @@
-## Resources for various CS fields
+## Resources for various Languages
 This folder contains resources for various Languages
 
 | Languages | Link to the respective folder |
