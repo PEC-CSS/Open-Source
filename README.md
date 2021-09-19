@@ -24,6 +24,12 @@ This repository also shares a collection of resources, contributed by the member
 
 </br>
 
+You wish to further enrich this collection of resources?
+Well go ahead and add your own as well 🤩! Here is how you can do this :
+- Either fill up this [google form](https://forms.gle/Qn6T2omShiZW1LLR9) and your response will be updated by us in the repo
+- OR send a PR after adding your response to the README file of the respective resource folder
+
+</br>
 
 ## Contributing
 
@@ -40,11 +46,7 @@ __NOTE__ : If you are solving any Issue, make sure you create a new branch, ment
 	* [Specific to our repository](https://drive.google.com/file/d/1QoXaWDvIwgksPrwogE2JHzcoZqa7MQib/view)
 	* [Or a general detailed explanation](https://www.youtube.com/watch?v=LuL60r-XnL4)
 
-
-You wish to further enrich this collection of resources?
-Well go ahead and add your own as well 🤩! Here is how you can do this :
-- Either fill up this [google form](https://forms.gle/Qn6T2omShiZW1LLR9) and your response will be updated by us in the repo
-- OR send a PR after adding your response to the README file of the respective resource folder
+<br/>
 
 ### For Contributors
 It's our pleasure that you are considering contributing to this repository. We hope that this repository can be used by learners from PEC, or anywhere in the world. Being one of the contributors, you must adhere to the following __Code of Conduct__:
