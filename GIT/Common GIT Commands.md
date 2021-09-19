@@ -39,9 +39,15 @@ git status
 git log
 ```
 
+- set up remote upstream and fetch
+```
+git remote add upstream https://github.com/PEC-CSS/Open-Source.git
+git fetch upstream
+```
+
 - Reset your local branch to Remote branch
 ```
-git fetch origin
+git fetch upstream //OR git fetch origin - if you are working on the original repo
 git reset --hard origin/name_of_branch
 git clean -f
 ```
