@@ -1,3 +1,4 @@
+#include<bits/stdc++.h>
 using namespace std;
 void swap(int a[], int idx1, int idx2){
 	int temp=a[idx1];
