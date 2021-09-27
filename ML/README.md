@@ -154,7 +154,6 @@ I started learning machine learning from coursera Introduction to machine learni
 </a>
 
 [![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
-![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 
 ```
 Exploratory data analysis :
