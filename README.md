@@ -21,6 +21,7 @@ This repository also shares a collection of resources, contributed by the member
 | Git and Github | [GIT](/GIT) |
 | Cyber Security | [Cyber Security](/Cyber-Security) |
 | Blockchain Development | [Blockchain](/Blockchain) |
+| Other Tech | [Other Tech resources](/Other-Tech-resources) |
 
 </br>
 

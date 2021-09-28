@@ -53,20 +53,33 @@ Towardsdatascience - https://towardsdatascience.com/
 ![Generic badge](https://img.shields.io/badge/R%26D-member-blue)
 
 ```
-Learning Python:
-For learning basics of python in detail, I used book followed in CBSE syllabus for computer science - 
-1) Computer Science with python by Sumita Arora class 11
-Chapters: 6,7,8,9,11,12,13
-2) Computer Science with python by Sumita Arora class 12
-Chapters: 3,5
-
-Mastering basic data science libraries:
-In order to enter into the world of ML, one needs to first learn a few python libraries. After a lot of research, i would say a one stop destination to learn numpy, pandas and matplotlib libraries which are essential for data science and ML are-
-1) Python Data Science Handbook by Jake VanderPlas
-Chapters: 2,3 in detail and initial part of ch 4
+Exploratory data analysis
+There are a lot of online tutorials out there but I used the following which worked pretty well for me:
+1)  Python Data Science Handbook by Jake VanderPlas
+Chapters: 2,3 in detail and initial part of ch 4….(to start with numpy, pandas and matplotlib)
 https://tanthiamhuat.files.wordpress.com/2018/04/pythondatasciencehandbook.pdf
-2) Introduction to data science with python coursera (University of Michigan)
+2)  Introduction to data science with python coursera (University of Michigan)...(used to practise pandas)
 https://www.coursera.org/learn/python-data-analysis
+
+Machine Learning Algorithms
+Used parallel combination of Hands-On ML with scikit-learn,keras & TF (for checking out implementation and basic theory) and Andrew Ng stanford coursera course (for deeper parts of theory)
+https://www.coursera.org/learn/machine-learning.
+Often I hand-coded ML Algos implementations and tried out visualizing Decision Boundaries. My ML algos repo link: https://github.com/Vibhu1710/ML-Algos-Implementation
+Deep Learning
+Again used Hands-On ML for Deep Learning and parallely referred to Andrew Ng deep learning course https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+Back Prop article link that i found handy:
+https://www.jeremyjordan.me/neural-networks-training/
+Started out implementing shallow neural networks and understood how they worked in steps (epochs, what is the batch size etc).
+
+Convolutional Neural network
+I guess the best explanation and theory for this is here:
+https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
+Implementation is a bit of a slow process here. Some articles that were stepping stones:
+Transfer Learning implementation:
+https://towardsdatascience.coma-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
+At this point I found myself searching for implementations on kaggle.
+One of the starter CNN basic level implementation to check out is this:
+https://www.kaggle.com/uysimty/keras-cnn-dog-or-cat-classification
 ```
 ## Vikram Mondal
 <a href="https://www.linkedin.com/in/mondal-vikram/">
@@ -134,6 +147,108 @@ I started learning machine learning from coursera Introduction to machine learni
 4) Deep Learning with Tensorflow specialisation on Coursera by Deeplearning.ai
 5) Computational Linear Algebra by fast.ai
 6) Statquest YouTube channel by Josh Starmer
+```
+## Shubh Ashish
+<a href="https://www.linkedin.com/in/shubh-ashish-a4a415190/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+
+```
+Exploratory data analysis :
+Loads of tutorials are present online. I followed this one:
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+
+Machine Learning Algorithms :
+Followed Jose Portilla’s (above) and Andrew NG’s courses:
+https://www.coursera.org/learn/machine-learning
+Josh Starmer’s wonderful explanation for topics like PCA, clustering, etc. helped, too:
+https://www.youtube.com/c/joshstarmer 
+Tried implementing everything.
+
+Deep Learning :
+Again, Andrew NG’s Deep Learning specialization:
+https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning
+And loads of towardsdatascience.com articles.
+
+Convolutional Neural Networks :
+Andrew NG, again:
+https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning
+Tried implementing stuff, with help of towardsdatascience.com articles, every now and then. Did the generic MNIST classification and tried a hand on the Kaggle Dog-vs-Cat dataset.
+
+Recurrent Neural Networks :
+Andrew NG’s got you covered:
+https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning
+This, of course, was followed by hands-on implementation, with article reading from towardsdatascience.com and analyticsvidhya.com
+
+Natural Language Processing :
+Got some ideas from Jose’s course. Read many articles. Implemented and understood stuff like CountVectorization.
+Did a basic task of sentiment analysis. (Many datasets on Kaggle.)
+```
+## Bavesh Kumar
+<a href="https://www.linkedin.com/in/bhavesh-kumar-9ab7061b1/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+```
+Exploratory data analysis :
+https://www.coursera.org/learn/python-data-analysis
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+(first few modules cover data analysis and visualization part)
+https://www.kaggle.com/search?q=tag%3A%22exploratory+data+analysis%22 (Practice)
+
+Machine Learning Algorithms :
+To Learn Machine Learning Underlying concepts and mathematics follow 
+Andrew NG course (Stanford University) on Coursera. 
+https://www.coursera.org/learn/machine-learning
+(but it’s in matlab so just learn concepts and to apply algorithms using python follow Jose Portialla’s course)
+https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/ 
+
+Scratch Implementation of ML algorithms
+(https://github.com/eriklindernoren/ML-From-Scratch/tree/master/mlfromscratch)
+
+Edureka and Codebasics channel on youtube can also help!!
+
+Deep Learning :
+
+DeepLearning.AI’s Deep Learning Specialization covers almost everything.
+Specialization Link
+1st Course:- Build a neural Network from scratch
+2nd Course:- Improving bare minimum model by tuning 
+3rd Course:- Best practices to follow in DL/ML.
+4th Course:- Convolution Neural Nets
+5th Course:- Recurrent Neural Nets.
+Specialization has tons of assignments and projects so go for it.
+To implement DL with Python you can go for Tensorflow it’s documentation is extremely great.
+(https://www.tensorflow.org/)
+
+Towardsdatascience.com, Medium.com, MachineLearningMastery all are always there to help with the implementation part.
+
+Natural Language Processing :
+Basics In Jose’s Course.
+For more on Text Mining and NLP check out 
+Applied Text Mining in Python course on Coursera by Michigan University.
+
+Research Papers Look-UP :
+https://analyticsindiamag.com/8-open-access-resources-for-ai-ml-research-papers/
+```
+## Parikh Goyal
+<a href="https://www.linkedin.com/in/parikh-goyal-errpv/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
+```
+Neural Networks
+1) Stanford lecture series by Andrej Karpathy (Neural networks):
+https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+2) Hackerearth ML & DL monthly hackathons (Learn as you do)
+3) NLP and GANs:
+https://github.com/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization
+3) Practice on Google Colab (Easy to use and experiment)
+4) Tensorflow2-GPU easy installation: https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc
 ```
 <br />
 <br />
