@@ -1,4 +1,4 @@
-  > Use this format to add your own Git resources (those that were personally used by you) in this README
+  > Use this format to add your own JavaScript resources (those that were personally used by you) in this README
   ```
     ## YOUR_NAME
     <a href="YOUR_LINKEDIN_PROFILE_LINK">
