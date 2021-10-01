@@ -203,5 +203,39 @@ https://codewithmosh.com/p/the-complete-node-js-course
 
 Obviously you don't need to buy anyone, all can be downloaded from websites.
 ```
+
+## Gaurav Sharma
+<a href="https://www.linkedin.com/in/gaurav-sharma-0828a916a/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
+```
+No need to go into complete details of any of these initially.
+
+HTML:
+- https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org
+- use proper dedicated tags for SEO. 
+
+CSS:
+- https://www.youtube.com/watch?v=1Rs2ND1ryYc&ab_channel=freeCodeCamp.org
+- after doing this try: https://flexboxfroggy.com/ to master flexbox(this is the main one)
+
+JavaScript:
+- Basics: https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
+- Advance
+  - Book(recommended route): https://eloquentjavascript.net/ 
+  - Course: https://www.udemy.com/course/modern-javascript-from-the-beginning/
+- Under the Hood JS - Namaste Javascript (course) : https://www.youtube.com/watch?v=pN6jk0uUrD8&ab_channel=AkshaySaini
+- Rely on official documentation if you struggle with any concept: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Typescript:
+- https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
+- TS is fairly new, better to also rely on official documentation: https://www.typescriptlang.org/docs/ 
+
+React:
+- Course: https://www.udemy.com/course/react-redux/
+- And officail documentation: https://reactjs.org/docs/getting-started.html
+```
 <br />
 <br />
