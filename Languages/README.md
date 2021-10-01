@@ -3,12 +3,12 @@ This folder contains resources for various Languages
 
 | Languages | Link to the respective folder |
 | ------------- | ------------- |
-| C++ | [C++](/C++) |
-| Dart | [Dart](/Dart) |
-| Java | [Java](/Java) |
-| JavaScript | [JavaScript](/JavaScript)|
-| Python | [Python](/Python) |
-| Typescript | [Typescript](/Typescript) |
+| C++ | [C++](Languages/C++) |
+| Dart | [Dart](Languages/Dart) |
+| Java | [Java](Languages/Java) |
+| JavaScript | [JavaScript](Languages/JavaScript)|
+| Python | [Python](Languages/Python) |
+| Typescript | [Typescript](Languages/Typescript) |
 
 <br/>
 
