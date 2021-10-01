@@ -69,6 +69,26 @@ Udemy - Python and Django Full Stack Web Developer Bootcamp by Jose Portilla
 W3schools, YouTube, mini projects
 ```
 
+## Bhavesh Kumar
+<a href="https://www.linkedin.com/in/bhavesh-kumar-9ab7061b1/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+```
+- See to develop stronger skills one need to have good grasp over basics so, I learnt the basics like HTML, CSS, Javascript and DOM from W3scools website, but important
+  thing here is to not just read the docs but also start implementing it on your own by making basic projects like portfolio.
+- Then to enhance my Web Dev skils i opted for Full Stack Web Development with React Specialization (MERN stack) on Coursera.
+- It taught me the responsive design and boostrap.
+- Also make me comfortable in React for building scalable frontend.
+- One Important thing i want to mention is choosing react as frontend framework also helps you to write mobile apps frontend using its extension React-Native framework and i used the same for two of my projects.
+- Then it also covered tha backend building using nodejs and expressjs with MongoDB as database.
+- I was applying the skills learnt side by side on course's dev assignments.
+- After specialization i picked up an idea and made a full stack application to hone the skills.
+- See concepts remain same once you are comfortable with a stack let's say MERN you can integrate several different techs like from CodeWithHarry you-tube channel i learnt django framework to integrate it with React Native frontend so like this you can experiment multiple techs to best suite your needs.
+```  
+
+
 ## Jatin Bansal
 <a href="https://www.linkedin.com/in/bansaljatin05/">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
@@ -182,6 +202,38 @@ https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 https://codewithmosh.com/p/the-complete-node-js-course
 
 Obviously you don't need to buy anyone, all can be downloaded from websites.
+```
+
+## Gaurav Sharma
+<a href="https://www.linkedin.com/in/gaurav-sharma-0828a916a/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
+```
+HTML:
+- https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org
+- use proper dedicated tags for SEO. 
+
+CSS:
+- https://www.youtube.com/watch?v=1Rs2ND1ryYc&ab_channel=freeCodeCamp.org
+- after doing this try: https://flexboxfroggy.com/ to master flexbox(this is the main one)
+
+JavaScript:
+- Basics: https://www.youtube.com/watch?v=W6NZfCO5SIk&ab_channel=ProgrammingwithMosh
+- Advance
+  - Book(recommended route): https://eloquentjavascript.net/ 
+  - Course: https://www.udemy.com/course/modern-javascript-from-the-beginning/
+- Under the Hood JS - Namaste Javascript (course) : https://www.youtube.com/watch?v=pN6jk0uUrD8&ab_channel=AkshaySaini
+- Rely on official documentation if you struggle with any concept: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Typescript:
+- https://react-typescript-cheatsheet.netlify.app/docs/basic/setup/
+- TS is fairly new, better to also rely on official documentation: https://www.typescriptlang.org/docs/ 
+
+React:
+- Course: https://www.udemy.com/course/react-redux/
+- And officail documentation: https://reactjs.org/docs/getting-started.html
 ```
 
 <br />

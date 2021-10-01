@@ -1,3 +1,7 @@
+ ## Common Git Commands - [Link](/Common_GIT_Commands.md)
+
+  <br />
+  
   > Use this format to add your own Git resources (those that were personally used by you) in this README
   ```
     ## YOUR_NAME
@@ -55,5 +59,28 @@ Hacktoberfest is really good to learn git and about opensource community.
 Git and Github tutorial-
 https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
 ```
+
+## Abhinav Marwaha
+<a href="https://www.linkedin.com/in/abhinavmarwaha/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+```
+Git SCM - https://git-scm.com/
+```
+
+## Gaurav Sharma
+<a href="https://www.linkedin.com/in/gaurav-sharma-0828a916a/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
+```
+- Beginner: https://www.youtube.com/watch?v=USjZcfj8yxE&ab_channel=ColtSteele
+- Detailed: https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry
+- Suggested: https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha
+```
+
 <br />
 <br />
