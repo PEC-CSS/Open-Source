@@ -211,8 +211,6 @@ Obviously you don't need to buy anyone, all can be downloaded from websites.
 
 [![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
 ```
-No need to go into complete details of any of these initially.
-
 HTML:
 - https://www.youtube.com/watch?v=pQN-pnXPaVg&ab_channel=freeCodeCamp.org
 - use proper dedicated tags for SEO. 
