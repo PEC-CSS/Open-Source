@@ -70,11 +70,5 @@ int main()
 
 }
 
-
-// g++ Mirror_binary_tree.cpp -o Mirror_binary_tree
-// ./Mirror_binary_tree.exe
-
-// sample ip: 1 2 4 -1 -1 5 -1 -1 3 6 -1 -1 7 -1 -1
-// op :
-// PreOrder of original Tree: 1 2 4 5 3 6 7
-// PreOrder of Mirrored Tree: 1 3 7 6 2 5 4
+//  g++ Check_for_BST.cpp -o Check_for_BST
+// ./Check_for_BST.exe
