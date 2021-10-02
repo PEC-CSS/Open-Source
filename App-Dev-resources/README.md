@@ -16,6 +16,8 @@
 # App Development
 ![forthebadge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
 ## D Ajay Kumar
 <a href="https://www.linkedin.com/in/d-ajay-kumar-60a003194/">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
@@ -57,3 +59,35 @@ I learned flutter in app dev field and some of the resources are:
 ```
 <br />
 <br />
+
+## Ashutosh Aswal
+  <a href="https://www.linkedin.com/in/ashutosh-aswal-785101203/">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+
+    ```
+    Currently I am learning Android Native App Developement in Kotlin . There are many resources available for it but the following are some which I believe are best to start with and teaches from scratch to end.
+    1. Google's own course: 
+    https://developer.android.com/courses/android-basics-kotlin/course
+    2. Udacity Courses :
+      a. Android Basics: User Interface:
+        https://www.udacity.com/course/android-basics-user-interface--ud834
+      b. Android Basics: User Input:
+        https://www.udacity.com/course/android-basics-user-input--ud836
+      c.  Basics: Multiscreen Apps:
+        https://www.udacity.com/course/android-basics-multiscreen-apps--ud839
+      d. Android Basics: Networking:
+        https://www.udacity.com/course/android-basics-networking--ud843
+      e. Android Basics: Data Storage:
+        https://www.udacity.com/course/android-basics-data-storage--ud845
+      f. Developing Android Apps:
+        https://www.udacity.com/course/new-android-fundamentals--ud851
+      g. Advanced Android App Development:
+        https://www.udacity.com/course/advanced-android-app-development--ud855
+      h. Firebase in a Weekend: Android:
+        https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352
+      i. Material Design for Android Developers:
+        https://www.udacity.com/course/material-design-for-android-developers--ud862
+    ```  
