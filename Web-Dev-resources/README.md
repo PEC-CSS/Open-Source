@@ -41,6 +41,30 @@ Other useful links-
 Web dev simplified - For specific topics like CSS grids - https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
 For getting better at any framework, read its documentation. For instance, react has a beautifully written and organized documentation - https://reactjs.org/docs/getting-started.html
 ```
+## Deepanshu Jindal
+<a href="https://www.linkedin.com/in/deepanshujindal/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)
+```
+For development, I have personally felt that most of the udemy's bestseller courses can provide you a good kickstart. This is a brief description about the path followed by me:
+HTML & CSS: -
+1. "HTML and CSS: Design and Build Websites" - by "John Duckett" is an amazing book. It makes you understand things with real world examples and graphical illustrations. It will also cover all fundamental concepts.
+2. w3schools worked like a quick go-to guide for me.
+3. 'Build Responsive Real-World Websites with HTML and CSS' course on Udemy by Jonas Schmedtmann helped me to know practical application of concepts.
+
+JavaScript:
+1. "JavaScript and JQuery: Interactive Front-End Web Development", another excellent book written by John Duckett, which provides you with sufficient knowledge.
+2. Javascript documentation by MDN is one of the best written documentations, which will solve most of your queries. Link: - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+3. For studying how javascript works and similar stuff follow "Namaste JavaScript" course by Akshay Saini. (A little bit more advanced stuff. Firstly clear the basics, then move to this.) It is one of the most entertaining course, with plethora of knowledge. - Link: - https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+
+Bootstrap/SASS:
+Now you can start learning bootstrap. It will make your life much more easier. Just browse through bootstrap documentation, you can learn it very quickly.
+SASS is a kind of extension of css, which will help you to write reusable css code.  
+ 
+ For MERN stack - I just used udemy bestsellers and official documentation.
+```
 
 ## Akshit Garg
 <a href="https://www.linkedin.com/in/akshit-garg-2088008a">
