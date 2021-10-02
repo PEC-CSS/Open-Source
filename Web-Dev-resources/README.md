@@ -260,5 +260,17 @@ React:
 - And officail documentation: https://reactjs.org/docs/getting-started.html
 ```
 
+
+## Harsh Dutt
+  <a href="https://www.linkedin.com/in/harshdutt17/">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+  [![Generic badge](https://img.shields.io/badge/Batch-2024-cyan.svg)](https://shields.io/)
+  
+  ```
+      For MERN Stack: https://fullstackopen.com/ 
+      For DSA : G4G Course or Udemy courses are the best. 
+  ```
 <br />
 <br />
