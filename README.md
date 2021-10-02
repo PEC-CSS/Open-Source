@@ -19,8 +19,12 @@ This repository also shares a collection of resources, contributed by the member
 | App Development | [App Dev resources](/App-Dev-resources)|
 | Competitive Coding & DSA | [CP DSA resources](/CP-DSA-resources) |
 | Git and Github | [GIT](/GIT) |
+| Open-Source | [Open-source](/Open-source) |
 | Cyber Security | [Cyber Security](/Cyber-Security) |
 | Blockchain Development | [Blockchain](/Blockchain) |
+| Programming Languages | [Languages](/Languages) |
+| PEC Courses | [PEC-Courses](/PEC-Courses) |
+| Other Tech | [Other Tech resources](/Other-Tech-resources) |
 
 </br>
 
