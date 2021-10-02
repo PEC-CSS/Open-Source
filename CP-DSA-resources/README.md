@@ -139,6 +139,18 @@ There is no need to spend time on learning syntax of different programming langu
 4) https://www.interviewbit.com/
 5)https://www.codechef.com/ for competitive programming
 ```
+## Yashika Lamba
+<a href="https://www.linkedin.com/in/yashika-lamba-565ab9196/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+```
+Leetcode Problemset: https://leetcode.com/problemset/all/
+Love Babbar DSA Sheet: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+Interviewbit Problemset: https://www.interviewbit.com/courses/programming/
+Dynamic A2OJ Ladder: https://a2oj.herokuapp.com/
+Codeforces Virtual Contests: https://codeforces.com/contests?complete=true
+```
+
 ## Ankit Goyal
 <a href="https://www.linkedin.com/in/ankitgoyal0301">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
