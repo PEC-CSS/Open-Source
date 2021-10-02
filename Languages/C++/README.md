@@ -47,3 +47,15 @@ Object oriented programming in C++ by Robert Lafore is a very good book.
 - https://www.pdfdrive.com/object-oriented-programming-in-c-robert-lafore-e12029142.html
 ``` 
  <br />
+ ## Avneesh Goyal
+<a href="https://www.linkedin.com/in/avneesh-goyal-8073a5206/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+```
+Object oriented programming Cource by BANGLORE COMPUTER EDUCATION BY MR.Rajesh Bansal (SCJP-Sun Certified Java Programmer,Email : bcebti@gmail.com,Contact : 98722-46056) is the best source from where u can get deep insights of OOPS, as OOPS is widely in demand in today's IT world+ Books u can refer is ROBER LAFOR,Effective Moder C++ by Scotty Meyers.
+``` 
+ <br />
+ 
+ 
