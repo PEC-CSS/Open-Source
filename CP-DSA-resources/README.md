@@ -7,14 +7,34 @@
 
     [![Generic badge](https://img.shields.io/badge/Batch-YOUR_BATCH_YEAR-<COLOR>.svg)](https://shields.io/)
        ```
-        YOUR_ANSWER
+        YOUR_ANSWERs
 
        ```  
   ```
 <br />
 
 # Competitive Coding
+    
+    
+    
+    ## Rijul Singla
+    <a href="nan">
+      <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+    </a>
 
+    [![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+       ```
+        C++ resources for beginner in Competitive Programming:
+
+        1) Getting Started In Cpp : https://www.youtube.com/watch?v=vLnPwxZdW4Y
+        2) Begin in Cpp STL : https://www.youtube.com/watch?v=Bndkkt-xqls
+        3) More STL : https://www.youtube.com/watch?v=tOnploQe2ds&list=PLQXZIFwMtjoxwO1Q46c15Aj63M-lSd8b7&index=33
+        4) Data Structures course: https://unacademy.com/course/course-on-basic-data-structures/F8WFBRSZ
+
+        Book for reference c++ : CLRS 
+        **Click this link to download pdf for CLRS: https://github.com/SinglaRijul/test/raw/main/CLRS.pdf
+
+       ```  
 ## Vivek Ramansh Bhanot
 <a href="https://www.linkedin.com/in/vivek-ramansh-bhanot/">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
