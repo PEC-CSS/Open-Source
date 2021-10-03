@@ -272,5 +272,25 @@ React:
       For MERN Stack: https://fullstackopen.com/ 
       For DSA : G4G Course or Udemy courses are the best. 
   ```
+  
+ ## Mustali Chunawala
+  <a href="https://www.linkedin.com/in/mustali17/">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+  [![Generic badge](https://img.shields.io/badge/Batch-2024-cyan.svg)](https://shields.io/)
+  
+  ```
+      Best resources for Web Development: 
+      freeCodeCamp(https://www.freecodecamp.org/learn) - Free course to learn Web Development.
+      HTML Elements(https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - HTML elements reference by MDN.
+      HTML Entity(https://css-tricks.com/snippets/html/glyphs/) - HTML Entity Reference by CSS-Tricks.
+      CSS3 Properties(https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - CSS reference by MDN.
+      CSS Reference(https://cssreference.io/) - A free visual guide to CSS.
+      Flexbox Froggy(https://flexboxfroggy.com/) - A game that helps you to learn CSS Flex.
+      CSS-TRICKS Flexbox(https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox.
+     
+  ```
+  
 <br />
 <br />
