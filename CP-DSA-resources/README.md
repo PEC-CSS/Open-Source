@@ -169,5 +169,18 @@ There is no need to spend time on learning syntax of different programming langu
 - Codechef
 - Codeforces
 ```
+## Dhanjay
+<a href="https://www.linkedin.com/in/dhananjay-kumar-706643165/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Recursion - https://www.youtube.com/playlist?list=PLN4aKSfpk8TR-A59O9qR2VL0wqt3LrrnK
+2) C++ STL - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQ6CqzMRDVUr-jEpObLiYdq
+3) Prime Numbers - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQDJz7KLiwGFgnoUUwzfl1i
+```
+
+
 <br />
 <br />
