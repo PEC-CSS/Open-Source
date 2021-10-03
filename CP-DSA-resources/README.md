@@ -155,4 +155,12 @@ There is no need to spend time on learning syntax of different programming langu
 - Codeforces
 ```
 <br />
+
+## Rohan
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Best book for programming interviews - http://cs.furman.edu/~chealy/cs025/epi-light-1.4.10.pdf
+2) Book for algorithms - https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf
+```
 <br />
