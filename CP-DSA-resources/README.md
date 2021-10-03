@@ -183,4 +183,19 @@ There is no need to spend time on learning syntax of different programming langu
 
 
 <br />
-<br />
+
+ ## BHAVYA TYAGI
+    
+<a href="https://www.linkedin.com/in/bhavya19/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) DSA - Geeks For Geeks
+2) DSA Practice - Leetcode, GFG, Interviewbit
+3) Best python course https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/
+```
+       
+ 
+
