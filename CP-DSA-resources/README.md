@@ -181,7 +181,15 @@ There is no need to spend time on learning syntax of different programming langu
 3) Prime Numbers - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQDJz7KLiwGFgnoUUwzfl1i
 ```
 
+<br />
 
+## Rohan
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Best book for programming interviews - http://cs.furman.edu/~chealy/cs025/epi-light-1.4.10.pdf
+2) Book for algorithms - https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf
+```
 <br />
 
  ## BHAVYA TYAGI
@@ -196,6 +204,4 @@ There is no need to spend time on learning syntax of different programming langu
 2) DSA Practice - Leetcode, GFG, Interviewbit
 3) Best python course https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/
 ```
-       
- 
-
+<br />
