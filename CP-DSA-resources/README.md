@@ -139,6 +139,21 @@ There is no need to spend time on learning syntax of different programming langu
 4) https://www.interviewbit.com/
 5)https://www.codechef.com/ for competitive programming
 ```
+
+## Yashika Lamba
+<a href="https://www.linkedin.com/in/yashika-lamba-565ab9196/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+```
+1)Leetcode Problemset: https://leetcode.com/problemset/all/
+2)Love Babbar DSA Sheet: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+3)Interviewbit Problemset: https://www.interviewbit.com/courses/programming/
+4)Dynamic A2OJ Ladder: https://a2oj.herokuapp.com/
+5)Codeforces Virtual Contests: https://codeforces.com/contests?complete=true
+```
+
 ## Ankit Goyal
 <a href="https://www.linkedin.com/in/ankitgoyal0301">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
@@ -154,6 +169,18 @@ There is no need to spend time on learning syntax of different programming langu
 - Codechef
 - Codeforces
 ```
+## Dhanjay
+<a href="https://www.linkedin.com/in/dhananjay-kumar-706643165/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Recursion - https://www.youtube.com/playlist?list=PLN4aKSfpk8TR-A59O9qR2VL0wqt3LrrnK
+2) C++ STL - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQ6CqzMRDVUr-jEpObLiYdq
+3) Prime Numbers - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQDJz7KLiwGFgnoUUwzfl1i
+```
+
 <br />
 
 ## Rohan
@@ -162,5 +189,19 @@ There is no need to spend time on learning syntax of different programming langu
 ```
 1) Best book for programming interviews - http://cs.furman.edu/~chealy/cs025/epi-light-1.4.10.pdf
 2) Book for algorithms - https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf
+```
+<br />
+
+ ## BHAVYA TYAGI
+    
+<a href="https://www.linkedin.com/in/bhavya19/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) DSA - Geeks For Geeks
+2) DSA Practice - Leetcode, GFG, Interviewbit
+3) Best python course https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/
 ```
 <br />
