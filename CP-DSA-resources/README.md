@@ -7,14 +7,34 @@
 
     [![Generic badge](https://img.shields.io/badge/Batch-YOUR_BATCH_YEAR-<COLOR>.svg)](https://shields.io/)
        ```
-        YOUR_ANSWER
+        YOUR_ANSWERs
 
        ```  
   ```
 <br />
 
 # Competitive Coding
+    
+    
+    
+## Rijul Singla
+<a href="nan">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
 
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+C++ resources for beginner in Competitive Programming:
+
+1) Getting Started In Cpp : https://www.youtube.com/watch?v=vLnPwxZdW4Y
+2) Begin in Cpp STL : https://www.youtube.com/watch?v=Bndkkt-xqls
+3) More STL : https://www.youtube.com/watch?v=tOnploQe2ds&list=PLQXZIFwMtjoxwO1Q46c15Aj63M-lSd8b7&index=33
+4) Data Structures course: https://unacademy.com/course/course-on-basic-data-structures/F8WFBRSZ
+
+Book for reference c++ : CLRS 
+**Click this link to download pdf for CLRS: https://github.com/SinglaRijul/test/raw/main/CLRS.pdf
+
+```  
 ## Vivek Ramansh Bhanot
 <a href="https://www.linkedin.com/in/vivek-ramansh-bhanot/">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
@@ -169,5 +189,48 @@ There is no need to spend time on learning syntax of different programming langu
 - Codechef
 - Codeforces
 ```
+## Dhanjay
+<a href="https://www.linkedin.com/in/dhananjay-kumar-706643165/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Recursion - https://www.youtube.com/playlist?list=PLN4aKSfpk8TR-A59O9qR2VL0wqt3LrrnK
+2) C++ STL - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQ6CqzMRDVUr-jEpObLiYdq
+3) Prime Numbers - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQDJz7KLiwGFgnoUUwzfl1i
+```
+
 <br />
+
+## Rohan
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Best book for programming interviews - http://cs.furman.edu/~chealy/cs025/epi-light-1.4.10.pdf
+2) Book for algorithms - https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf
+```
+<br />
+
+## BHAVYA TYAGI
+<a href="https://www.linkedin.com/in/bhavya19/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) DSA - Geeks For Geeks
+2) DSA Practice - Leetcode, GFG, Interviewbit
+3) Best python course https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/
+```
+
+## Vaibhav Goel
+<a href="https://www.linkedin.com/in/vaibhav2002/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Best book for CP-https://cses.fi/book/book.pdf
+2) Best book for DSA - https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf
+```
 <br />
