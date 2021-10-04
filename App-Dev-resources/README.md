@@ -91,3 +91,20 @@ https://developer.android.com/courses/android-basics-kotlin/course
   i. Material Design for Android Developers:
     https://www.udacity.com/course/material-design-for-android-developers--ud862
 ```  
+
+## Mustali Chunawala
+<a href="https://www.linkedin.com/in/mustali17/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+RESOURCES FOR CREATING ANDROID NATIVE APP
+  a.Android Studio – The primary Android app development IDE: https://developer.android.com/studio/
+  b.Android API references: https://developer.android.com/reference/
+  c.Android App development, from Stanford: https://web.stanford.edu/class/cs193a/videos.shtml
+  d.For game developers, Unity: https://docs.unity3d.com/Manual/android-GettingStarted.html
+  e.Android Guides: Extensive Open-Source Guides for Android Developers: https://github.com/codepath/android_guides
+```
+<br />
+<br />
