@@ -306,6 +306,32 @@ React:
   For back end - Go with same Udemy course or if you are into reading, W3schools is a good site for you 
   
   ``` 
+   ## Jyoti prakash Rout
+    <a href="www.linkedin.com/in/jyoti-prakash-rout">
+      <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+    </a>
+
+    [![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+       ```
+       4 steps to become a web devloper from scratch:
+       
+       1)Learn to code
+       -freecodecamp.org
+       -codecademy.com
+      
+      2)Practice problem solving
+      -leetcode.com
+      -edabit.com
+      
+      3)Build a real app
+      -vuejs.org
+      -reactjs.org
+      
+      4)Host it
+      -vercel.com
+      -netlify.com
+      
+      Repeat......!
 
 <br />
 <br />
