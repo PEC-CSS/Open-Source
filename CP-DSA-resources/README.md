@@ -234,3 +234,18 @@ There is no need to spend time on learning syntax of different programming langu
 2) Best book for DSA - https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf
 ```
 <br />
+
+## Ishaan Jain
+<a href="https://in.linkedin.com/in/ishaan-jain-7a92871bb">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) C++ - https://www.youtube.com/watch?v=RaE5k8e1dPw
+2) STL C++ - https://www.youtube.com/watch?v=Bndkkt-xqls
+3) Dynamic programming - https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+For Competitive Programming - Codechef , Hackerrank , Codeforces
+```
+
+<br />
