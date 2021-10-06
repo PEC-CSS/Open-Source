@@ -260,5 +260,17 @@ React:
 - And officail documentation: https://reactjs.org/docs/getting-started.html
 ```
 
+
+## Aayush Gupta
+  <a href="https://www.linkedin.com/in/aayush-gupta-721360192/">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+  [![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+     ```
+     If you want to learn Django-Rest-API and facing difficulty in userstanding token authentication from documentation,
+     then you can easily learn that from https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN 
+     Pre-requisute: Basics of Django.
+     ```  
 <br />
 <br />
