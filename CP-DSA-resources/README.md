@@ -154,5 +154,18 @@ There is no need to spend time on learning syntax of different programming langu
 - Codechef
 - Codeforces
 ```
+
+## Aayush Gupta
+<a href="https://www.linkedin.com/in/aayush-gupta-721360192/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+   ```
+   - Make a strong hold on language basics like C/C++: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+   - Start reading DSA from: https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html
+   - For Algorithms you can follow Abdul Bari: https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+   - Now you are good to go for practice: GFG (https://www.geeksforgeeks.org/ )
+   ```
 <br />
 <br />
