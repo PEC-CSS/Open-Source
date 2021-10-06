@@ -260,5 +260,89 @@ React:
 - And officail documentation: https://reactjs.org/docs/getting-started.html
 ```
 
+## Harsh Dutt
+  <a href="https://www.linkedin.com/in/harshdutt17/">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+  [![Generic badge](https://img.shields.io/badge/Batch-2024-cyan.svg)](https://shields.io/)
+  
+  ```
+      For MERN Stack: https://fullstackopen.com/ 
+      For DSA : G4G Course or Udemy courses are the best. 
+  ```
+  
+ ## Mustali Chunawala
+  <a href="https://www.linkedin.com/in/mustali17/">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+  [![Generic badge](https://img.shields.io/badge/Batch-2024-cyan.svg)](https://shields.io/)
+  
+  ```
+      Best resources for Web Development: 
+      freeCodeCamp(https://www.freecodecamp.org/learn) - Free course to learn Web Development.
+      HTML Elements(https://developer.mozilla.org/en-US/docs/Web/HTML/Element) - HTML elements reference by MDN.
+      HTML Entity(https://css-tricks.com/snippets/html/glyphs/) - HTML Entity Reference by CSS-Tricks.
+      CSS3 Properties(https://developer.mozilla.org/en-US/docs/Web/CSS/Reference) - CSS reference by MDN.
+      CSS Reference(https://cssreference.io/) - A free visual guide to CSS.
+      Flexbox Froggy(https://flexboxfroggy.com/) - A game that helps you to learn CSS Flex.
+      CSS-TRICKS Flexbox(https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A Complete Guide to Flexbox.
+     
+  ```
+    ## Sahil Kumar
+  <a href="https://www.linkedin.com/in/sahil-kumar-880971212">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+  [![Generic badge](https://img.shields.io/badge/Batch-2024-cyan.svg)](https://shields.io/)
+
+  ```
+  Follow a particular roadmap when starting with Web dev
+  -You can follow w3schools for roadmaps (https://www.w3schools.com/whatis/)
+  For HTML, CSS, BOOTSTRAP - Udemy courses for basics , I prefer one provided by Angela yu which is one among the best course
+  For more learning read documentations from w3schools and mdn texts.
+  For back end - Go with same Udemy course or if you are into reading, W3schools is a good site for you 
+  
+  ``` 
+
+## Jyoti prakash Rout
+<a href="www.linkedin.com/in/jyoti-prakash-rout">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+   ```
+   4 steps to become a web devloper from scratch:
+
+   1)Learn to code
+   -freecodecamp.org
+   -codecademy.com
+
+  2)Practice problem solving
+  -leetcode.com
+  -edabit.com
+
+  3)Build a real app
+  -vuejs.org
+  -reactjs.org
+
+  4)Host it
+  -vercel.com
+  -netlify.com
+
+  Repeat......!
+```
+
+## Aayush Gupta
+<a href="https://www.linkedin.com/in/aayush-gupta-721360192/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+   ```
+   - If you want to learn Django-Rest-API and facing difficulty in userstanding token authentication from documentation.
+   - Then you can easily learn that from https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN 
+   - Pre-requisute: Basics of Django.
 <br />
 <br />

@@ -7,14 +7,34 @@
 
     [![Generic badge](https://img.shields.io/badge/Batch-YOUR_BATCH_YEAR-<COLOR>.svg)](https://shields.io/)
        ```
-        YOUR_ANSWER
+        YOUR_ANSWERs
 
        ```  
   ```
 <br />
 
 # Competitive Coding
+    
+    
+    
+## Rijul Singla
+<a href="nan">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
 
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+C++ resources for beginner in Competitive Programming:
+
+1) Getting Started In Cpp : https://www.youtube.com/watch?v=vLnPwxZdW4Y
+2) Begin in Cpp STL : https://www.youtube.com/watch?v=Bndkkt-xqls
+3) More STL : https://www.youtube.com/watch?v=tOnploQe2ds&list=PLQXZIFwMtjoxwO1Q46c15Aj63M-lSd8b7&index=33
+4) Data Structures course: https://unacademy.com/course/course-on-basic-data-structures/F8WFBRSZ
+
+Book for reference c++ : CLRS 
+**Click this link to download pdf for CLRS: https://github.com/SinglaRijul/test/raw/main/CLRS.pdf
+
+```  
 ## Vivek Ramansh Bhanot
 <a href="https://www.linkedin.com/in/vivek-ramansh-bhanot/">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
@@ -139,6 +159,21 @@ There is no need to spend time on learning syntax of different programming langu
 4) https://www.interviewbit.com/
 5)https://www.codechef.com/ for competitive programming
 ```
+
+## Yashika Lamba
+<a href="https://www.linkedin.com/in/yashika-lamba-565ab9196/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+```
+1)Leetcode Problemset: https://leetcode.com/problemset/all/
+2)Love Babbar DSA Sheet: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+3)Interviewbit Problemset: https://www.interviewbit.com/courses/programming/
+4)Dynamic A2OJ Ladder: https://a2oj.herokuapp.com/
+5)Codeforces Virtual Contests: https://codeforces.com/contests?complete=true
+```
+
 ## Ankit Goyal
 <a href="https://www.linkedin.com/in/ankitgoyal0301">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
@@ -155,17 +190,76 @@ There is no need to spend time on learning syntax of different programming langu
 - Codeforces
 ```
 
+## Dhanjay
+<a href="https://www.linkedin.com/in/dhananjay-kumar-706643165/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Recursion - https://www.youtube.com/playlist?list=PLN4aKSfpk8TR-A59O9qR2VL0wqt3LrrnK
+2) C++ STL - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQ6CqzMRDVUr-jEpObLiYdq
+3) Prime Numbers - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQDJz7KLiwGFgnoUUwzfl1i
+```
+
+<br />
+
+## Rohan
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Best book for programming interviews - http://cs.furman.edu/~chealy/cs025/epi-light-1.4.10.pdf
+2) Book for algorithms - https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf
+```
+<br />
+
+## BHAVYA TYAGI
+<a href="https://www.linkedin.com/in/bhavya19/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) DSA - Geeks For Geeks
+2) DSA Practice - Leetcode, GFG, Interviewbit
+3) Best python course https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/
+```
+
+## Vaibhav Goel
+<a href="https://www.linkedin.com/in/vaibhav2002/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) Best book for CP-https://cses.fi/book/book.pdf
+2) Best book for DSA - https://cin.ufpe.br/~fbma/Crack/Cracking%20the%20Coding%20Interview%20189%20Programming%20Questions%20and%20Solutions.pdf
+```
+<br />
+
+## Ishaan Jain
+<a href="https://in.linkedin.com/in/ishaan-jain-7a92871bb">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+1) C++ - https://www.youtube.com/watch?v=RaE5k8e1dPw
+2) STL C++ - https://www.youtube.com/watch?v=Bndkkt-xqls
+3) Dynamic programming - https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+For Competitive Programming - Codechef , Hackerrank , Codeforces
+```
+
 ## Aayush Gupta
 <a href="https://www.linkedin.com/in/aayush-gupta-721360192/">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
 [![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
-   ```
-   - Make a strong hold on language basics like C/C++: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
-   - Start reading DSA from: https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html
-   - For Algorithms you can follow Abdul Bari: https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
-   - Now you are good to go for practice: GFG (https://www.geeksforgeeks.org/ )
-   ```
-<br />
+ ```
+ - Make a strong hold on language basics like C/C++: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+ - Start reading DSA from: https://www.pdfdrive.com/data-structures-and-algorithms-made-easy-data-structures-and-algorithmic-puzzles-e158226594.html
+ - For Algorithms you can follow Abdul Bari: https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+ - Now you are good to go for practice: GFG (https://www.geeksforgeeks.org/ )
+ ```
+
 <br />
