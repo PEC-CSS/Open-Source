@@ -250,5 +250,23 @@ https://github.com/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Sp
 3) Practice on Google Colab (Easy to use and experiment)
 4) Tensorflow2-GPU easy installation: https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc
 ```
-<br />
+## Jyoti prakash Rout
+<a href="https://www.linkedin.com/in/jyoti-prakash-rout">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+100% free machine learning courses:
+
+- MIT 6.S191 Introduction to Deep Learning
+- DS-GA 1008 Deep Learning
+- UC Berkeley Full Stack Deep Learning
+- UC Berkeley CS 182 Deep Learning 
+- Cornell Tech CS 5787 Applied Machine Learning
+
+Top-notch. Google them. Pick one. Finish it.
+
+```
+
 <br />
