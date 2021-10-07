@@ -1,13 +1,26 @@
-#include<iostream>
+#include<bits/stdc++.h>
+
 using namespace std;
 int kadanes(int array[],int length) {
+
+   int max_temp=INT_MIN;
    int highestMax = 0;
-   int currentElementMax = 0;
+   int currentElementMax = INT_MIN;
+
    for(int i = 0; i < length; i++){
-      currentElementMax =max(array[i],currentElementMax + array[i]) ;
-      highestMax = max(highestMax,currentElementMax);
+
+
+     highestMax=max(highestMax+array[i],0);
+     max_temp=max(highestMax,max_temp);
+     currentElementMax=max(currentElementMax,array[i]);
+
+      if(max_temp==0){
+         max_temp=currentElementMax;
+      }
    }
-   return highestMax;
+
+
+   return max_temp;
 }
 
 
