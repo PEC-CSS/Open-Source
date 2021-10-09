@@ -88,10 +88,10 @@ Git SCM - https://git-scm.com/
   </a>
 
   [![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
-     ```
-      learning GIT through gamification: https://ohmygit.org/
-
-     ```  
+  ```
+  
+  learning GIT through gamification: https://ohmygit.org/
+  ```
 
 <br />
 <br />
