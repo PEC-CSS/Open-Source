@@ -82,5 +82,16 @@ Git SCM - https://git-scm.com/
 - Suggested: https://www.youtube.com/watch?v=apGV9Kg7ics&ab_channel=KunalKushwaha
 ```
 
+  ## MUAZ AHMED
+  <a href="https://www.linkedin.com/in/muaz-ahmed/">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+  [![Generic badge](https://img.shields.io/badge/Batch-2021-<COLOR>.svg)](https://shields.io/)
+  ```
+  
+  learning GIT through gamification: https://ohmygit.org/
+  ```
+
 <br />
 <br />
