@@ -263,3 +263,15 @@ For Competitive Programming - Codechef , Hackerrank , Codeforces
  ```
 
 <br />
+
+## Rishabh Kesarwani
+<a href="https://www.linkedin.com/in/rishabhkesarwanii/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+I have used this book, very easy to understand and very helpful. If you are new to algos it will help you a lot
+https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
+```
+<br />
