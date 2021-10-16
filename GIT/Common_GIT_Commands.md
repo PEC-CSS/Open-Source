@@ -39,6 +39,11 @@ git status
 git log
 ```
 
+- Check logs and display them as a graph
+```
+git log --graph --oneline --decorate --all
+```
+
 - set up remote upstream and fetch
 ```
 git remote add upstream https://github.com/PEC-CSS/Open-Source.git
@@ -60,4 +65,24 @@ git branch -m <new_name>
 - change last commit's message
 ``` 
 git commit --amend -m "New commit message."
+```
+
+- Move unstaged changes to stash
+```
+git stash
+```
+
+- Move unstaged and untracked changes/files to stash
+```
+git stash -u
+```
+
+- Merge last added changes from stash with current branch
+```
+git stash pop
+```
+
+- List all stashed changes
+```
+git stash list
 ```
