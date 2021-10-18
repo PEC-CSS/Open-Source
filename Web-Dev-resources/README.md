@@ -184,7 +184,6 @@ https://codewithmosh.com/p/the-complete-node-js-course
 Obviously you don't need to buy anyone, all can be downloaded from websites.
 ```
 <br />
-<br />
 
 ## Shiraz Mangat
 <a href="https://www.linkedin.com/in/shiraz-mangat-33b4ba220/">
