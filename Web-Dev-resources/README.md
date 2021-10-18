@@ -183,7 +183,7 @@ https://codewithmosh.com/p/the-complete-node-js-course
 
 Obviously you don't need to buy anyone, all can be downloaded from websites.
 ```
-<br />
+
 
 ## Shiraz Mangat
 <a href="https://www.linkedin.com/in/shiraz-mangat-33b4ba220/">
@@ -200,4 +200,4 @@ JS:- https://www.udemy.com/course/javascript-basics-to-advanced/
 ReactJS:- https://www.udemy.com/course/react-js-basics-to-advanced/
 JS for ReactJS - ES6:- https://www.udemy.com/course/modern-javascript-es6-for-react-js/
 ```
-<br/>
+
