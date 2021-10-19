@@ -1,9 +1,9 @@
-- To List the config of git
+- To configure user name to git
 ``` 
 git config --global user.name <your_user_name>
 ```
 
-- To List the config of git
+- To configure user emailId to git
 ``` 
 git config --global user.email <email_id>
 ```
