@@ -132,7 +132,7 @@ git checkout <filename>
 git reset filename
 ```
 
-- Steps to rebase from source branch to desctination branch
+- Steps to rebase from source branch to destination branch
 ```
 Should be in destination branch
 git pull --rebase origin <source_branch>
