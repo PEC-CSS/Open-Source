@@ -63,6 +63,7 @@ int main()
     cin >> n1;
     int nums1[n1];
     int nums3[n1];
+    cout<<"Enter "<<n1<<" Elements: "<<endl;
     for (int i = 0; i < n1; i++)
     {
         cin >> nums1[i];
@@ -71,6 +72,7 @@ int main()
     int n2;
     cin >> n2;
     int nums2[n2];
+    cout<<"Enter "<<n2<<" Elements: "<<endl;
     for (int i = 0; i < n2; i++)
     {
         cin >> nums2[i];
@@ -91,8 +93,14 @@ int main()
     a = removeDuplicates(nums3, a);
     
     cout << "Intersection of nums1 and nums2:" << endl;
+    cout<<"[";
     for (int i = 0; i < a; i++)
     {
-        cout << nums3[i] << endl;
+        if(i==a-1){
+            cout<<nums3[i];
+            break;
+        }
+        cout << nums3[i] << ",";
     }
+    cout<<"]";
 }
