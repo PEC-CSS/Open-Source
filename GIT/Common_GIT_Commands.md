@@ -156,3 +156,8 @@ git cherry-pick <commit_id> --no-commit
 ```
 git cherry-pick <commit_id_1>..<commit_id_2>
 ```
+
+- Show changes between commits, commit and working tree 
+```
+git diff
+```
