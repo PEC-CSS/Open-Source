@@ -31,6 +31,7 @@ Other than this you can keep reading different blogs or writeups on medium. You 
 ```
 <br />
 <br />
+
 ## Rohit Bishla
 <a href="https://www.linkedin.com/in/rohit-bishla-6a3a68202/">
   <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
@@ -39,6 +40,7 @@ Other than this you can keep reading different blogs or writeups on medium. You 
 [![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
 ```
 https://www.youtube.com/c/LoiLiangYang
+https://www.youtube.com/c/zSecurity
 https://www.udemy.com/course/learn-ethical-hacking-from-scratch/
 
 ``` 
