@@ -39,53 +39,13 @@ int main()
     int t;
     cin >> t;
     while (t--) {
-        ll n;
-        cin >> n;
-        vector<ll> arr(n);
-        for (ll i = 0; i < n; i++) {
-            cin >> arr[i];
-        }
-
-        vector<ll>odd, even;
-
-        for (ll i = 0; i < n; i++) {
-            if (arr[i] % 2)
-                odd.push_back(arr[i]);
-            else
-                even.push_back(arr[i]);
-
-        }
-
-
-        if (even.size() == 0 || odd.size() == 0) {
-            cout << -1 << endl;
-        } else {
-            for (int i = 0; i < odd.size(); i++)
-                cout << odd[i] << " ";
-            for (int i = 0; i < even.size(); i++)
-                cout << even[i] << " ";
-
-
-        }
-        cout << endl;
+    //write your code here 
 
     }
-
-
-
 
 
     return 0;
 
 
-
-
-
-
-
-    //first time ctrl+shift+b;
-    //for other use ctrl +b on code
-    // ctrl+d for multiple selection
-    //ctr + shift +d for copying the code down
 }
 
