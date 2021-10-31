@@ -26,6 +26,7 @@ class MinStack
     };
 
     std::stack<Node> s;
+    
 
 public:
     MinStack() {}
