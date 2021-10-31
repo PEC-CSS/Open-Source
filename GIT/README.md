@@ -93,5 +93,16 @@ Git SCM - https://git-scm.com/
   learning GIT through gamification: https://ohmygit.org/
   ```
 
+## Rohit Bishla
+<a href="https://www.linkedin.com/in/rohit-bishla-6a3a68202/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+https://www.udacity.com/course/version-control-with-git--ud123
+https://www.youtube.com/watch?v=8JJ101D3knE&ab_channel=ProgrammingwithMosh
+
+```  
 <br />
 <br />
