@@ -268,5 +268,21 @@ https://github.com/ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Sp
 Top-notch. Google them. Pick one. Finish it.
 
 ```
+## Rohit Bishla
+<a href="https://www.linkedin.com/in/rohit-bishla-6a3a68202/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+Some good free courses.
+https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-crash-course
+https://www.udacity.com/course/deep-learning-pytorch--ud188
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+https://www.udacity.com/course/aws-machine-learning-foundations--ud065
+https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
+https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741
+https://www.udacity.com/course/reinforcement-learning--ud600
+```  
 
 <br />

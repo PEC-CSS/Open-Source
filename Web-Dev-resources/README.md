@@ -344,5 +344,22 @@ React:
    - If you want to learn Django-Rest-API and facing difficulty in userstanding token authentication from documentation.
    - Then you can easily learn that from https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN 
    - Pre-requisute: Basics of Django.
-<br />
-<br />
+
+  ```
+  
+## Shiraz Mangat
+<a href="https://www.linkedin.com/in/shiraz-mangat-33b4ba220/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2023-<COLOR>.svg)](https://shields.io/)
+  ```
+  I preferred to do some courses from Udemy.
+  
+  HTML:- https://www.udemy.com/course/html-basic-to-advanced/
+  CSS:- https://www.udemy.com/course/css-basics-to-advanced/
+  JS:- https://www.udemy.com/course/javascript-basics-to-advanced/
+  ReactJS:- https://www.udemy.com/course/react-js-basics-to-advanced/
+  ```
+  <br>
+  
