@@ -54,12 +54,14 @@ ACM PEC Open source has planned to start with some FOSS projects. You are encour
 Tech Stack: HTML, CSS, JavaScript, React. <br/>
 Start Date: 10th Nov <br/>
 Lead: Jaspreet and Deepanshu <br/>
+Repo: https://github.com/PEC-CSS/ACM-PEC-Website <br/>
 
 2) Watchlist Application (Will be deployed on playstore later) <br/>
 Tech stack:  HTML, CSS, JavaScript, React-native <br/>
 Features Doc: (https://docs.google.com/document/d/1K9KixKBnD0RWjJRyJ7zdvljnZEIFdopc9fSbmC7Bh1M/edit?usp=sharing) <br/>
 Start date: 10th Nov <br/>
 Lead: Bhavesh Kumar <br/>
+Repo: https://github.com/PEC-CSS/Stock-Watchlist <br/>
 
 3) Nuclear (outside Open-source, 6.8K stars, 700 Forks) <br/>
 Tech Stack - JavaScript, Typescript <br/>
