@@ -37,3 +37,12 @@ https://github.com/search?q=hacktoberfest
 
 19th Sep – 12:00 PM to 01:00 PM  
 Link: https://meet.google.com/hdf-juyj-bjd
+
+<br/>
+
+## 01.Nov.2021 - Hacktoberfest 2021 statistics
+👾ACM-CSS got an amazing response in Hacktoberfest 2021. We are glad to announce that at the end of hacktoberfest2021, our Open-Source repository got: <br/>
+• 47 stars 🌟<br/>
+• 131 forks <br/>
+• 262 merged pull-requests <br/>
+
