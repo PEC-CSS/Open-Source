@@ -46,3 +46,22 @@ Link: https://meet.google.com/hdf-juyj-bjd
 • 131 forks <br/>
 • 262 merged pull-requests <br/>
 
+<br/><br/>
+
+## 1.Nov.2021 - FOSS Projects Announcement
+ACM PEC Open source has planned to start with some FOSS projects. You are encouraged to contribute to them. Following are the details of the projects:-
+1) Official ACM Web App - <br/>
+Tech Stack: HTML, CSS, JavaScript, React. <br/>
+Start Date: 10th Nov <br/>
+Lead: Jaspreet and Deepanshu <br/>
+
+2) Watchlist Application (Will be deployed on playstore later) <br/>
+Tech stack:  HTML, CSS, JavaScript, React-native <br/>
+Features Doc: (https://docs.google.com/document/d/1K9KixKBnD0RWjJRyJ7zdvljnZEIFdopc9fSbmC7Bh1M/edit?usp=sharing) <br/>
+Start date: 10th Nov <br/>
+Lead: Bhavesh Kumar <br/>
+
+3) Nuclear (outside Open-source, 6.8K stars, 700 Forks) <br/>
+Tech Stack - JavaScript, Typescript <br/>
+Start date - 15th Nov <br/>
+Lead - Gaurav Sharma <br/>
