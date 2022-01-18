@@ -275,3 +275,24 @@ I have used this book, very easy to understand and very helpful. If you are new 
 https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf
 ```
 <br />
+
+
+## Sonika Shah
+<a href="https://www.linkedin.com/in/rishabhkesarwanii/">
+<img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2022-<COLOR>.svg)](https://shields.io/)
+```
+
+1) Leetcode Problemset: https://leetcode.com/problemset/all/
+2) Love Babbar DSA Sheet: https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+3) Striver SDE Sheet: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+The SDE sheet are helpful in revising concepts and solving important questions for interview.
+
+You can follow https://takeuforward.org/category/interview-experience/ and 
+https://www.geeksforgeeks.org/company-interview-corner/ to get company wisee interview experiences.
+(very helpful in last moment preparation)
+```
+<br />
