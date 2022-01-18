@@ -12,8 +12,20 @@
 
 <br/>
 
+### POCs for October 2021 [Deepanshu, Bhavesh]
+
+| Plans for this Month  | Status |
+| ------------- | ------------- |
+| Start with FOSS project (Stock watcher app) | TODO |
+| Inform everyone about upcoming open source events (external) | TODO  |
+| Start with Google Summer of Code Insider's series  | TODO  |
+| Collaborate with Web&App group for open source project (ACM CSS app) | TODO |
+
+<br/>
+
 Long term projects:
 * Time Table - centralised and sharing
+* Stocks Watcher
 * ACM CSS PEC official App
 ---------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------
@@ -44,3 +56,5 @@ Long term projects:
 * Move to MOMs format instead of video recordings of meetings and move everything to github.
 * Introduction to OS workshops and videos -> details and assignment
 * Future project discussion
+
+<br/>

@@ -1,0 +1,54 @@
+.data
+     check: .asciiz "Check if the given input Integer is Palindrome or Not\n"
+     ans: .asciiz "Palindrome of Given Integer: "
+     pal: .asciiz "\nHence, Given integer is Palindrome"
+     notpal: .ascii "\nHence, Given integer is not Palindrome"
+     
+.text
+    li $v0, 4
+    la $a0, check
+    syscall
+    li $v0, 5
+    syscall
+    move $t1, $v0                # input integer -> $t1
+    addi $s0, $zero, 10          # $s0 -> 10
+    addi $t3, $t1, 0             # the duplicate of orginal number
+    addi $t2, $zero, 0           # the new number
+    
+    main:
+    
+        while:
+            div $t1, $s0         # divide the given integer
+            mflo $t0             # taking quotient from lo
+            mfhi $s1             # takes the remainder
+            add $t2, $t2, $s1
+            div $t1, $t1, $s0
+            beq $t1, $zero, exit
+            mul $t2, $t2, 10
+            j while
+            
+        exit:
+            li $v0, 4
+            la $a0, ans
+            syscall
+            li $v0, 1
+            addi $a0, $t2, 0
+            syscall
+            beq $t3, $t2, palindrome
+            bne $t3, $t2, notpalindrome
+            
+    li $v0, 10
+    syscall
+    
+    notpalindrome:
+        li $v0, 4
+        la $a0, notpal
+        syscall
+        li $v0, 10
+        syscall 
+         
+    palindrome:
+        li $v0, 4
+        la $a0, pal
+        syscall 
+

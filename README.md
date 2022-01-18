@@ -6,6 +6,10 @@
 Ahoy there! Welcome to the __PEC-ACM Open Source__ Repository. We request you to read the __whole guidelines__ before making any pull requests. In case any doubt arises, please feel free to ask it in the Discussion tab.
 
 </br>
+Join <b>Official ACM PEC Open-Source Slack Channel</b> to be part Interest group (Native Android | Game Development | Cloud | Blockchain | Flutter-Dev) 
+
+<a href="https://join.slack.com/t/acmpecopen-source/shared_invite/zt-11mvk2veo-n_ZGh1e6fzhFIKrs57EXgg" target="_blank">https://join.slack.com/t/acmpecopen-source/shared_invite/zt-11mvk2veo-n_ZGh1e6fzhFIKrs57EXgg</a> 
+</br>
 
 ## Resources for various CS fields
 This repository also shares a collection of resources, contributed by the members of PEC ACM CSS as well as other tech enthusiasts of the college, for learning various fields of computer science. You can make use of these resources as a reference point for honing your technical skills.

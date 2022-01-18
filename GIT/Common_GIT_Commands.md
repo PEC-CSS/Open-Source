@@ -1,11 +1,36 @@
+- To configure user name to git
+``` 
+git config --global user.name <your_user_name>
+```
+
+- To configure user emailId to git
+``` 
+git config --global user.email <email_id>
+```
+
+- To List the config of git
+``` 
+git config -l 
+```
+
 - Create a new branch: Branching
 ``` 
 git checkout -b name_of_branch 
 ```
 
+- Checkout existing remote branch: Branching
+``` 
+git checkout <branch_name> 
+```
+
 - add changed file: Staging
 ``` 
 git add .  OR git add file_name 
+```
+
+- add all unstaged files: Staging
+``` 
+git add -A 
 ```
 
 - Commit changes with message: Commiting
@@ -18,9 +43,19 @@ git commit -m "a_relevant_message"
 git push origin name_of_branch
 ```
 
+- Force pushing changes to the forked repo: Pushing
+``` 
+git push origin <name_of_branch> -f
+```
+
 - Pulling changes from forked repo: Pulling
 ``` 
 git pull origin name_of_branch
+```
+
+- To check the current branch 
+``` 
+git branch
 ```
 
 - Move to different branch
@@ -69,7 +104,7 @@ git commit --amend -m "New commit message."
 
 - Move unstaged changes to stash
 ```
-git stash
+git stash OR git stash save <unique_name>
 ```
 
 - Move unstaged and untracked changes/files to stash
@@ -85,4 +120,44 @@ git stash pop
 - List all stashed changes
 ```
 git stash list
+```
+
+- To revert unstaged changes in Git
+```
+git checkout <filename>
+```
+
+- To revert staged changes in Git
+```
+git reset filename
+```
+
+- Steps to rebase from source branch to destination branch
+```
+Should be in destination branch
+git pull --rebase origin <source_branch>
+If any conflicts, then resolve the conflicts and git add the resolved files.
+git rebase --continue
+If no conflicts, it will be successfully rebased.
+git push origin <destination_branch> -f
+```
+
+- To include the specific commit to another branch (cherry-pick) with committing directly
+```
+git cherry-pick <commit_id>
+```
+
+- To include the specific commit to another branch (cherry-pick) without committing directly
+```
+git cherry-pick <commit_id> --no-commit
+```
+
+- To include the specific range of commits to another branch (cherry-pick) 
+```
+git cherry-pick <commit_id_1>..<commit_id_2>
+```
+
+- Show changes between commits, commit and working tree 
+```
+git diff
 ```

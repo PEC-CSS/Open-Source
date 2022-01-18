@@ -37,3 +37,33 @@ https://github.com/search?q=hacktoberfest
 
 19th Sep – 12:00 PM to 01:00 PM  
 Link: https://meet.google.com/hdf-juyj-bjd
+
+<br/>
+
+## 01.Nov.2021 - Hacktoberfest 2021 statistics
+👾ACM-CSS got an amazing response in Hacktoberfest 2021. We are glad to announce that at the end of hacktoberfest2021, our Open-Source repository got: <br/>
+• 47 stars 🌟<br/>
+• 131 forks <br/>
+• 262 merged pull-requests <br/>
+
+<br/><br/>
+
+## 1.Nov.2021 - FOSS Projects Announcement
+ACM PEC Open source has planned to start with some FOSS projects. You are encouraged to contribute to them. Following are the details of the projects:-
+1) Official ACM Web App - <br/>
+Tech Stack: HTML, CSS, JavaScript, React. <br/>
+Start Date: 10th Nov <br/>
+Lead: Jaspreet and Deepanshu <br/>
+Repo: https://github.com/PEC-CSS/ACM-PEC-Website <br/>
+
+2) Watchlist Application (Will be deployed on playstore later) <br/>
+Tech stack:  HTML, CSS, JavaScript, React-native <br/>
+Features Doc: (https://docs.google.com/document/d/1K9KixKBnD0RWjJRyJ7zdvljnZEIFdopc9fSbmC7Bh1M/edit?usp=sharing) <br/>
+Start date: 10th Nov <br/>
+Lead: Bhavesh Kumar <br/>
+Repo: https://github.com/PEC-CSS/Stock-Watchlist <br/>
+
+3) Nuclear (outside Open-source, 6.8K stars, 700 Forks) <br/>
+Tech Stack - JavaScript, Typescript <br/>
+Start date - 15th Nov <br/>
+Lead - Gaurav Sharma <br/>
