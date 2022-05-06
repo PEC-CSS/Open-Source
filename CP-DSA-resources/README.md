@@ -296,3 +296,28 @@ https://www.geeksforgeeks.org/company-interview-corner/ to get company wisee int
 (very helpful in last moment preparation)
 ```
 <br />
+
+  ## Nitin Singla
+  <a href="https://www.linkedin.com/in/nitin-singla-317479207/">
+    <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+  </a>
+
+  [![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+   
+   ```
+	Some courses that I used :
+	1) https://www.udemy.com/course/cpp-data-structures-algorithms-prateek-narang/
+  2) https://www.udemy.com/course/cpp-data-structures-algorithms-levelup-prateek-narang/
+	3) DSA youtube series : https://www.youtube.com/watch?v=B31LgI4Y4DQ&ab_channel=freeCodeCamp.org
+	
+	Some good platforms for practice :
+	1) HackerRank
+	2) GeeksforGeeks
+	3) InterviewBit
+	
+	If you want to practice cp prefer codechef in beginning and then try solving problems on codeforces.
+  udemy course for cp :https://www.udemy.com/course/competitive-programming-algorithms-coding-minutes/
+  ```  
+
+
+
