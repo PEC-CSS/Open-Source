@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Silkscreen&display=swap"
+            rel="stylesheet"
+        />
+        <style>
+            body {
+                background-color: rgb(48, 46, 46);
+                color: aliceblue;
+                font-family: 'Silkscreen', cursive;
+                text-align: center;
+            }
+            .gridcontainer {
+                display: flex;
+                flex-direction: row;
+                justify-content: center;
+            }
+
+            .griditem {
+                background-color: rgb(255, 255, 255);
+                border: 5px solid rgba(0, 0, 0, 0.8);
+                padding: 20px;
+                font-size: 30px;
+                text-align: center;
+                border-radius: 15px;
+            }
+            img {
+                cursor: pointer;
+            }
+            button {
+                border-radius: 5px;
+            }
+            .griditem:hover {
+                scale: 1.03;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Rock Paper Scissors!</h1>
+        <p>Made with ❤ by <a href="https://github.com/tobixoxo">Sanjeev</a></p>
+        <p>choose the move you wanna play :)</p>
+        <div class="gridcontainer">
+            <div class="griditem"><img src="rock.png" id="rock" /></div>
+            <div class="griditem"><img src="scissors.png" id="scissors" /></div>
+            <div class="griditem"><img src="paper.png" id="paper" /></div>
+        </div>
+        <button type="button" id="play">play!</button>
+        <br />
+        <div id="board">scoreboard :</div>
+
+        <!-- <button type="button"> end </button> -->
+    </body>
+    <script>
+        //move : 1 = rock, 2 = paper, 3 = scissors
+        var move = 0;
+        var myscore = 0;
+        var PCscore = 0;
+        var pcmove = 0;
+        function scoreboard() {
+            pcmove = Math.floor(Math.random() * 4 + 1);
+            if (pcmove == move) {
+                document.getElementById('board').innerHTML =
+                    'same move :| <br>YOUR SCORE : ' +
+                    myscore +
+                    '<br>PC SCORE : ' +
+                    PCscore;
+            } else if (
+                (pcmove == 1 && move == 2) ||
+                (pcmove == 2 && move == 3) ||
+                (pcmove == 3 && move == 1)
+            ) {
+                PCscore++;
+                document.getElementById('board').innerHTML =
+                    'pc beats :( <br>YOUR SCORE : ' +
+                    myscore +
+                    '<br>PC SCORE : ' +
+                    PCscore;
+            } else if (
+                (pcmove == 2 && move == 1) ||
+                (pcmove == 3 && move == 2) ||
+                (pcmove == 1 && move == 3)
+            ) {
+                myscore++;
+                document.getElementById('board').innerHTML =
+                    'you beat pc ^^ <br>YOUR SCORE : ' +
+                    myscore +
+                    '<br>PC SCORE : ' +
+                    PCscore;
+            }
+        }
+        var rock = document.getElementById('rock');
+        rock.addEventListener('click', function () {
+            move = 1;
+            scoreboard();
+        });
+        var scissors = document.getElementById('scissors');
+        scissors.addEventListener('click', function () {
+            move = 2;
+            scoreboard();
+        });
+        var paper = document.getElementById('paper');
+        paper.addEventListener('click', function () {
+            move = 3;
+            scoreboard();
+        });
+    </script>
+</html>
