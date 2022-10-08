@@ -1,16 +1,31 @@
+# Python Program to create a Basic Login Page using Tkinter Library of Python
+
+# import everything from tkinter module
 from tkinter import *
 
+
 def donothing():
+    """This function to check whether the buttons worked or not."""
     print ('IT WORKED')
+
+
+# Create a GUI window    
 root=Tk()
+
+
+# Title of the GUI
 root.title(string='LOGIN PAGE')
 
+
+# Creating Frames
 frame1=Frame(root)
 frame1.pack(side=TOP,fill=X)
 
 frame2=Frame(root)
 frame2.pack(side=TOP, fill=X)
 
+
+# Creating Menus
 m=Menu(frame1)
 root.config(menu=m)
 
