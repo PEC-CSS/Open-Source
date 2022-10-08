@@ -10,7 +10,7 @@ This is achieved by using `virtual` keyword.
 
 To give you demonstration:
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -46,7 +46,7 @@ When fuction g() is called, function A::f() is called, although the argument ref
 
 The following example is the same as the previous example, except that A::f() is declared with the `virtual` keyword:
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -89,7 +89,7 @@ There are two things that occur when we create an object of a class which has vi
 -   If object of that class is created then a **virtual pointer (VPTR**) is inserted as a data member of the class to point to VTABLE of that class. For each new object created, a new virtual pointer is inserted as a data member of that class.
 -   Also, a class will contain a static array of functions pointers caleed **VTABLE**. Cells of this table stores the address of each virtual function contained in that very class
 
-```
+```cpp
 #include <iostream>
 using namespace std;
 
