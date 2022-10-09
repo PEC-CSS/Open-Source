@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(48, 46, 46);
+    color: aliceblue;
+    font-family: 'Silkscreen', cursive;
+    text-align: center;
+    overflow-x: hidden;
+}
+.board {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.gridContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+}
+.grid-item {
+    background-color: rgba(255, 196, 196, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    text-align: center;
+    margin: 5px;
+}
+#title:hover {
+    transform: rotate(6deg);
+    scale: 1.075;
+}
+.grid-item:hover {
+    scale: 1.05;
+}
