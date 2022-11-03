@@ -1,13 +1,16 @@
   > Use this format to add your own DSA resources (those that were personally used by you) in this README
   ```
-    ## YOUR_NAME
-    <a href="YOUR_LINKEDIN_PROFILE_LINK">
+    ## Vaibhav 
+    <a href="https://www.linkedin.com/in/vaibhav-thakkar-b220561b0/">
       <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
     </a>
 
-    [![Generic badge](https://img.shields.io/badge/Batch-YOUR_BATCH_YEAR-<COLOR>.svg)](https://shields.io/)
+    [![Generic badge](https://img.shields.io/badge/Batch-2025-<COLOR>.svg)](https://shields.io/)
        ```
-        YOUR_ANSWERs
+        Book for algorithms - https://web.iiit.ac.in/~pratik.kamble/storage/Algorithms/Cormen_Algorithms_3rd.pdf
+	Platforms for CP practice - Codechef, Codeforces, Atcoder
+	You can alse use platforms like GFG and Leetcode for practice
+	Be consistent, try to make streak on Leetcode, GFG, Codechef etc.
 
        ```  
   ```
