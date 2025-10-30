@@ -286,3 +286,34 @@ https://www.udacity.com/course/reinforcement-learning--ud600
 ```  
 
 <br />
+
+## Rudraksh Parsai
+<a href="https://www.linkedin.com/in/rudrakshparsai/">
+  <img align="left" width="82px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+[![Generic badge](https://img.shields.io/badge/Batch-2024-<COLOR>.svg)](https://shields.io/)
+```
+
+1) Machine Learning (Andrew Ng — Coursera)
+https://www.coursera.org/learn/machine-learning  
+This is where I started. Very beginner-friendly.  
+It builds intuition first instead of dumping math. Helped me actually understand what models are doing.
+
+2) Deep Learning Specialization (Andrew Ng — Coursera)
+https://www.coursera.org/specializations/deep-learning  
+This is where neural networks finally *made sense* for me.  
+Covers CNNs, RNNs, training tricks, how to not overfit etc.  
+Good step after the basics.
+
+3) CS229 (Stanford)
+http://cs229.stanford.edu/  
+I came to this later when I wanted the theory properly.  
+This is more math-heavy — good if you're aiming for research or you like knowing the "why" behind algorithms.
+
+You want some books? 
+4) *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow — Aurélien Géron*  
+Super practical. Helped me go from “I get the concepts” to actually training models and cleaning data.
+
+```
+<br /> 
